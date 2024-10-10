@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm currently study at padang state university<br>I'm looking to collaborate on Game Developing, and Web Developing<br>I'm looking for help with Game Developing and Web Developing<br>I'm currently learning Web Developing and Game Developing
+<br>I'm currently study at padang state university<br>I'm looking to collaborate on Game Developing, and Web Developing<br>I'm looking for help with Game Developing and Web Developing<br>I'm currently learning Web Developing and Game Developing
 
 
 ## 🌐 Socials:
