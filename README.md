@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
+![Aditya Kanoi Banner](02011ec8554277b8c70bf22fb192123c.gif)
 
 # 💫 About Me:
 
