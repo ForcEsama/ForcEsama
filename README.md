@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Aditya Kanoi Banner](02011ec8554277b8c70bf22fb192123c.gif)
+![Banner](02011ec8554277b8c70bf22fb192123c.gif)
 
 # 💫 About Me:
 
