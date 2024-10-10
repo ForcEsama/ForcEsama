@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 ![Banner](02011ec8554277b8c70bf22fb192123c.gif)
 
 # 💫 About Me:
