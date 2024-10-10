@@ -1,8 +1,15 @@
 ## Hi there 👋
 # 💫 About Me:
-<br>I'm currently study at padang state university<br>I'm looking to collaborate on Game Developing, and Web Developing<br>I'm looking for help with Game Developing and Web Developing<br>I'm currently learning Web Developing and Game Developing
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+- 🔭 I'm currently study at padang state university
+  
+- 🌱 I'm looking to collaborate on Game Developing, and Web Developing
+  
+- 👯 'm currently learning Web Developing and Game Developing
+  
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ForceAdonis) 
 
